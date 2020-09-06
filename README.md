@@ -1,3 +1,3 @@
 # Hangman
 
-OOP project. Game written in javascript.
+OOP project. Game written in JavaScript.
